@@ -1,0 +1,14 @@
+{
+  "orgName": "Graham_Hopgood company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  },
+  "sourceOrg": "00D9E0000004jvh"
+}

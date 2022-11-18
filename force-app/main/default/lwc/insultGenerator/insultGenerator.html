@@ -1,0 +1,14 @@
+<template>
+    <lightning-card  variant="Narrow"  title="Insult Generator" icon-name="standard:rtc_presence">
+        {name}
+        <lightning-button 
+            variant="destructive" 
+            label="Insult now!" 
+            title="Generate an insult" 
+            icon-name="utility:warning" 
+            class="slds-m-left_small"
+            onclick={handleInsult}
+        ></lightning-button>
+
+    </lightning-card>
+</template>
